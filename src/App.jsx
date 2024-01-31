@@ -1,7 +1,11 @@
-import { useState } from "react";
-import cardImg from "./assets/CustomStyle.png";
+import { Card } from "./components/Card";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Card></Card>
+    </>
+  );
 }
 
 export default App;
