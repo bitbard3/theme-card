@@ -23,20 +23,20 @@ export const Card = () => {
         </p>
         <div className="flex pt-12 justify-around w-3/4">
           <div className="flex flex-col items-center">
-            <p className="text-2xl text-accent">263</p>
+            <p className="text-2xl text-accent dark:text-primary">263</p>
             <p className="text-xs opacity-50 text-dark dark:text-light">
               Design
             </p>
           </div>
           <div className="flex flex-col items-center">
-            <p className="text-2xl text-accent">8</p>
+            <p className="text-2xl text-accent dark:text-primary">8</p>
             <p className="text-xs opacity-50  text-dark dark:text-light">
               Projects
             </p>
           </div>
         </div>
         <div className="mt-7 w-3/4">
-          <button className="w-full border text-dark border-accent hover:border-dark hover:bg-accent hover:bg-opacity-70 hover:text-light py-3 rounded-3xl ">
+          <button className="w-full border dark:text-light text-dark border-accent dark:border-primary dark:hover:bg-primary dark:hover:text-dark dark:hover:border-dark hover:border-dark hover:bg-accent hover:bg-opacity-70 hover:text-light py-3 rounded-3xl ">
             Contact
           </button>
         </div>
