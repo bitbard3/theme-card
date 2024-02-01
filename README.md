@@ -1,8 +1,5 @@
-# React + Vite
+## Theme Card
+Simple card made with tailwind css and context api in react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://github.com/bitbard3/theme-card/assets/140071186/ed3d16e6-a2b2-4e06-be3d-71cc0b2a8175
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
